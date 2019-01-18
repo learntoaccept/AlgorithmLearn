@@ -4,3 +4,6 @@ C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\BubbleSort\bin\Debu
 C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
 C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\BubbleSort\obj\Debug\BubbleSort.pdb

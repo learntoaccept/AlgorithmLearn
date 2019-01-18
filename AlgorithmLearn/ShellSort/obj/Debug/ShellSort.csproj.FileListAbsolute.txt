@@ -1,0 +1,12 @@
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.pdb
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\AlgorithmLearn\ShellSort\obj\Debug\ShellSort.pdb
