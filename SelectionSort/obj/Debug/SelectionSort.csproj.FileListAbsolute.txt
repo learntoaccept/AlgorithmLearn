@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\dell\Documents\GitHub\AlgorithmLearn\AlgorithmLearn\SelectionSort\obj\Debug\SelectionSort.pdb
